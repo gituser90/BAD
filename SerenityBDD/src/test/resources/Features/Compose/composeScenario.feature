@@ -13,5 +13,5 @@ Feature: Compose a mail via Gmail.com
 
     @prod
     Examples: Valid Data
-      | userName    | password      | ToAddress             |Subject				|Body					|
-      | jatin.cs.90 | ibm | jatin.cs.90@gmail.com |Testing				|Testing body	|
+      | userName    | password | ToAddress             | Subject | Body         |
+      | jatin.cs.90 | ibm      | jatin.cs.90@gmail.com | Testing | Testing body |
